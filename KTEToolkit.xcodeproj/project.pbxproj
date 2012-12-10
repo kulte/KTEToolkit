@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		B17995661676321700ED1ADF /* UITableView+KTEToolkitAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UITableView+KTEToolkitAdditions.h"; sourceTree = "<group>"; };
-		B17995671676321700ED1ADF /* UITableView+KTEToolkitAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UITableView+KTEToolkitAdditions.m"; sourceTree = "<group>"; };
+		B17995661676321700ED1ADF /* UITableView+KTEToolkitAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UITableView+KTEToolkitAdditions.h"; path = "KTEToolkit/UITableView+KTEToolkitAdditions.h"; sourceTree = "<group>"; };
+		B17995671676321700ED1ADF /* UITableView+KTEToolkitAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UITableView+KTEToolkitAdditions.m"; path = "KTEToolkit/UITableView+KTEToolkitAdditions.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
