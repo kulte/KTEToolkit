@@ -9,6 +9,8 @@
 /* Begin PBXFileReference section */
 		B17995661676321700ED1ADF /* UITableView+KTEToolkitAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UITableView+KTEToolkitAdditions.h"; path = "KTEToolkit/UITableView+KTEToolkitAdditions.h"; sourceTree = "<group>"; };
 		B17995671676321700ED1ADF /* UITableView+KTEToolkitAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UITableView+KTEToolkitAdditions.m"; path = "KTEToolkit/UITableView+KTEToolkitAdditions.m"; sourceTree = "<group>"; };
+		B1B2404C167638CE00783FEB /* KTEManagedTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KTEManagedTableViewCell.h; sourceTree = "<group>"; };
+		B1B2404D167638CE00783FEB /* KTEManagedTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KTEManagedTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -22,6 +24,8 @@
 		B17995681676338E00ED1ADF /* KTEToolkit */ = {
 			isa = PBXGroup;
 			children = (
+				B1B2404C167638CE00783FEB /* KTEManagedTableViewCell.h */,
+				B1B2404D167638CE00783FEB /* KTEManagedTableViewCell.m */,
 				B17995661676321700ED1ADF /* UITableView+KTEToolkitAdditions.h */,
 				B17995671676321700ED1ADF /* UITableView+KTEToolkitAdditions.m */,
 			);
