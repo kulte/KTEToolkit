@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		B17995661676321700ED1ADF /* UITableView+KTEToolkitAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UITableView+KTEToolkitAdditions.h"; sourceTree = "<group>"; };
+		B17995671676321700ED1ADF /* UITableView+KTEToolkitAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UITableView+KTEToolkitAdditions.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B179955D167631E300ED1ADF = {
+			isa = PBXGroup;
+			children = (
+				B17995681676338E00ED1ADF /* KTEToolkit */,
+			);
+			sourceTree = "<group>";
+		};
+		B17995681676338E00ED1ADF /* KTEToolkit */ = {
+			isa = PBXGroup;
+			children = (
+				B17995661676321700ED1ADF /* UITableView+KTEToolkitAdditions.h */,
+				B17995671676321700ED1ADF /* UITableView+KTEToolkitAdditions.m */,
+			);
+			name = KTEToolkit;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B179955F167631E300ED1ADF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+			};
+			buildConfigurationList = B1799562167631E300ED1ADF /* Build configuration list for PBXProject "KTEToolkit" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = B179955D167631E300ED1ADF;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B1799564167631E300ED1ADF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B1799565167631E300ED1ADF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B1799562167631E300ED1ADF /* Build configuration list for PBXProject "KTEToolkit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B1799564167631E300ED1ADF /* Debug */,
+				B1799565167631E300ED1ADF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B179955F167631E300ED1ADF /* Project object */;
+}
